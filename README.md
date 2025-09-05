@@ -11,8 +11,8 @@ Our app is not only for fun but also helps in improving English vocabulary. Each
 Overall, Restory is more than just a story app. It is a tool for entertainment, learning, sharing, and connecting with others. It turns simple ideas into magical stories, allows sharing across platforms, and also improves our knowledge of English. This app makes reading and writing enjoyable for people of all ages and is a great way to learn while having fun.
 
 # To run the code
-// 🔑 Gemini API Key (don’t hardcode in production!)
-const String apiKey = 'Your_API_key';
+// 🔑 Gemini API Key <br>
+const String apiKey = 'Your_API_key';<br>
 In place of API key write your own API key.
 
 

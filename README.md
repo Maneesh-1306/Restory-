@@ -48,7 +48,9 @@ Provide the complete Dart code for the StoryScreen class.
  
 # Screenshots of app
 
-<img src="images/IMG-20250905-WA0013.jpg" alt="IMG-20250905-WA0013" width="150" height="150">
+images/IMG-20250905-WA0013.jpg
+[![pic1](images/IMG-20250905-WA0013.jpg)](images/IMG-20250905-WA0013.jpg)
+
 
 
 

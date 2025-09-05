@@ -48,6 +48,7 @@ Provide the complete Dart code for the StoryScreen class.
  
 # Screenshots of app
 
- ![WhatsApp Image 2025-09-05 at 23 18 31_5f73e943](https://github.com/user-attachments/assets/88b2896a-281b-4732-b717-076cc3af2e9f)
+![logo](https://github.com/user-attachments/assets/2ad4dd2a-1644-465d-955f-9a96b23f59a4)
+
 
 

@@ -18,8 +18,8 @@ In place of API key write your own API key.
 
 # Prompts for some classes
 <br>
-<span style="font-family:Verdana; font-size:18px;">For class "StoryScreen"</span>
-
+<span style="font-family:Verdana; font-size:24px;">For class "StoryScreen"</span>
+<br>
 Write Flutter code for a screen called StoryScreen that allows users to either type a basic story idea or upload a PDF (extract text using file_picker and syncfusion_flutter_pdf).
 
 Show a TextField where the user can enter text.

@@ -10,13 +10,14 @@ Our app is not only for fun but also helps in improving English vocabulary. Each
 
 Overall, Restory is more than just a story app. It is a tool for entertainment, learning, sharing, and connecting with others. It turns simple ideas into magical stories, allows sharing across platforms, and also improves our knowledge of English. This app makes reading and writing enjoyable for people of all ages and is a great way to learn while having fun.
 
-#To run the code
+# To run the code
 // 🔑 Gemini API Key (don’t hardcode in production!)
 const String apiKey = 'Your_API_key';
 In place of API key write your own API key.
 
 
-#Prompts for some classes
+# Prompts for some classes
+<br>
 <span style="font-family:Verdana; font-size:18px;">For class "StoryScreen"</span>
 
 Write Flutter code for a screen called StoryScreen that allows users to either type a basic story idea or upload a PDF (extract text using file_picker and syncfusion_flutter_pdf).

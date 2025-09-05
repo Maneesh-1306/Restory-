@@ -4,7 +4,7 @@ Our app named “Restory” is a very special app that provides us with interest
 
 In this app, we also have the option to share the stories in the form of a PDF. Not only this, but our app can also read a story from a PDF file that the user provides. After reading the story, it gives us fabulous new versions or variants of that same story. This makes reading and writing stories much more exciting because we get to see many different versions of the same idea.
 
-Another amazing feature is that we can share these stories with friends and relatives on many social media platforms like WhatsApp, Facebook, and others. By doing this, we can increase our bonding and spend quality time with our loved ones. It makes conversations more fun because everyone can enjoy the stories together.
+Another amazing feature is that we can share these stories with friends and relatives on many social media platforms like WhatsApp, Facebook and others. By doing this, we can increase our bonding and spend quality time with our loved ones. It makes conversations more fun because everyone can enjoy the stories together.
 
 Our app is not only for fun but also helps in improving English vocabulary. Each story contains different kinds of words and expressions. By reading these words, users can make their English better in an easy and natural way. This is very helpful for students, readers, and anyone who wants to improve their language skills while enjoying stories.
 

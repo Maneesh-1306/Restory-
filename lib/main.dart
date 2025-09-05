@@ -8,7 +8,7 @@ import 'package:path_provider/path_provider.dart';
 import 'package:share_plus/share_plus.dart';
 
 // 🔑 Gemini API Key (don’t hardcode in production!)
-const String apiKey = 'AIzaSyA-RDvKFK7tu8Se6yN73AaqHy6RPJQDJKM';
+const String apiKey = 'Your_API_key';
 
 void main() {
   runApp(const MyApp());

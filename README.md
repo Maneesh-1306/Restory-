@@ -41,7 +41,7 @@ Provide the complete Dart code for the StoryScreen class.
 
 # Contributions
  Class SplashScreen - Kavya Jain <br>
- Class   - Maneesh Reddy
+ Class StoryDetailScreen - Maneesh Reddy
  Class - Manish Bairwa
  
  

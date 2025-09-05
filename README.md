@@ -16,6 +16,28 @@ const String apiKey = 'Your_API_key';
 In place of API key write your own API key.
 
 
+#Prompts for some classes
+<span style="font-family:Verdana; font-size:18px;">For class "StoryScreen"</span>
+
+Write Flutter code for a screen called StoryScreen that allows users to either type a basic story idea or upload a PDF (extract text using file_picker and syncfusion_flutter_pdf).
+
+Show a TextField where the user can enter text.
+
+Add a button to pick a PDF and extract its text into the field.
+
+Add a button that calls the Gemini API (via http.post) to generate 5 distinct stories with titles, based on the input text.
+
+While waiting, show a loading indicator.
+
+Display the generated story titles in a ListView.
+
+When a title is tapped, navigate to a StoryDetailScreen passing the title and full story text.
+
+Use proper error handling (like SnackBar for errors).
+
+Add gradient background and modern UI styling with rounded cards and buttons.
+Provide the complete Dart code for the StoryScreen class.
+
 
 
  

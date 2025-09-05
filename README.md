@@ -1,4 +1,4 @@
-# ReStory
+# ReStory( an android app) 
 #  ------------app features-----------
 Our app named “Restory” is a very special app that provides us with interesting and creative stories. The best part is that the user only needs to give a small prompt or idea, and the app will automatically create five full stories from it. This makes it very easy and fun to use, even for people who do not have time to write long stories.
 

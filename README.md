@@ -47,9 +47,8 @@ Provide the complete Dart code for the StoryScreen class.
  App Testing in Android Mobile - Syam Durga Jashwanth
  
 # Screenshots of app
+[Click here to view the photo](image/myphoto.png)
 
-images/IMG-20250905-WA0013.jpg
-[![pic1](images/IMG-20250905-WA0013.jpg)](images/IMG-20250905-WA0013.jpg)
 
 
 

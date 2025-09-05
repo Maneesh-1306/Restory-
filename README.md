@@ -39,11 +39,11 @@ Use proper error handling (like SnackBar for errors).
 Add gradient background and modern UI styling with rounded cards and buttons.
 Provide the complete Dart code for the StoryScreen class.
 
-# Contributions
+# Contribution
  Class SplashScreen - Kavya Jain <br>
- Class StoryDetailScreen - Maneesh Reddy
- Class - Manish Bairwa
- 
+ Class StoryDetailScreen - Maneesh Reddy <br>
+ Class _SplashScreenState - Manish Bairwa <br>
+ App Testing in Android Mobile - Syam Durga Jashwanth
  
 
  

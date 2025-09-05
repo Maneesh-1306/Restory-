@@ -9,5 +9,8 @@ Another amazing feature is that we can share these stories with friends and rela
 Our app is not only for fun but also helps in improving English vocabulary. Each story contains different kinds of words and expressions. By reading these words, users can make their English better in an easy and natural way. This is very helpful for students, readers, and anyone who wants to improve their language skills while enjoying stories.
 
 Overall, Restory is more than just a story app. It is a tool for entertainment, learning, sharing, and connecting with others. It turns simple ideas into magical stories, allows sharing across platforms, and also improves our knowledge of English. This app makes reading and writing enjoyable for people of all ages and is a great way to learn while having fun.
+
+#To run the code
+
  
 
